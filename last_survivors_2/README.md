@@ -1,4 +1,4 @@
-##Description
+## Description
 
 Substitute two equal letters by the next letter of the alphabet (two letters convert to one):
 ```
